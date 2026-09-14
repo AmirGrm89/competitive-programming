@@ -40,7 +40,6 @@ void solve()
         adj[x].pb(y);
         adj[y].pb(x);
     }
-    fill(check,check+maxn,0);
     FOR(i, 1, n+1)
     {
         if(!mark[i])
