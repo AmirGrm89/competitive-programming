@@ -1,6 +1,6 @@
-# 310 - D. A Simple Task
+# 11D - A Simple Task
 
-**Original Source:** SGU 310 - D. A Simple Task
+**Codeforces Problem:** 11D - A Simple Task
 
 ## Problem
 
@@ -20,7 +20,7 @@ When extending a path, only add vertices whose index is greater than `small`.
 
 If the current endpoint is connected to `small` and the path contains at least three vertices, a simple cycle is formed.
 
-Every cycle is counted in both directions, so the final result is divided by `2`.
+Each cycle is counted in both directions, so the final answer is divided by `2`.
 
 ## Key Techniques
 
@@ -38,4 +38,4 @@ where `n ≤ 19`.
 
 ## Source
 
-[SGU 310 - D. A Simple Task](https://acmp.ru/index.asp?main=task&id_task=310)
+[Codeforces - 11D: A Simple Task](https://codeforces.com/problemset/problem/11/D)
