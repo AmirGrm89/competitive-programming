@@ -1,6 +1,6 @@
 # 310 - D. A Simple Task
 
-**Codeforces Problem:** 310 - D. A Simple Task
+**Original Source:** SGU 310 - D. A Simple Task
 
 ## Problem
 
@@ -38,4 +38,4 @@ where `n ≤ 19`.
 
 ## Source
 
-[Codeforces - 310D: A Simple Task](https://codeforces.com/problemset/problem/310/D)
+[SGU 310 - D. A Simple Task](https://acmp.ru/index.asp?main=task&id_task=310)
