@@ -6,7 +6,7 @@ typedef long long ll;
 const int maxn = (1<<19)+10;
 ll dp[maxn][30], ans, n, m;
 bool yal[30][30];
-vector<int> adj[maxn];
+vector<int> adj[maxn]; 
 
 void solve()
 {
